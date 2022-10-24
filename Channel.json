@@ -16,7 +16,7 @@
    "link" : ""
 },
 { "channelName" : "Fortune",
-   "image" : "https://static.wikia.nocookie.net/logopedia/"image"s/c/c9/Fortune_TV.png/revision/latest?cb=20191211065309",
+   "image" : " https://static.wikia.nocookie.net/logopedia/"image"s/c/c9/Fortune_TV.png/revision/latest?cb=20191211065309 ",
    "link" : ""
 },
 { "channelName" : "Channel9",
@@ -44,7 +44,7 @@
    "link" : "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 },
 { "channelName" : "Canal+ Sport1",
-   "image" : "https://static.wikia.nocookie.net/tvfanon6528/"image"s/e/e4/Canal%2B_Sport_1_%282019-.n.v.%29.png/revision/latest?cb=20200430160948",
+   "image" : " https://static.wikia.nocookie.net/tvfanon6528/"image"s/e/e4/Canal%2B_Sport_1_%282019-.n.v.%29.png/revision/latest?cb=20200430160948 ",
    "link" : "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941755&extension=ts&play_token=EsigBOh3mS"
 },
 { "channelName" : "Canal+ Sport2",
@@ -76,7 +76,7 @@
    "link" : "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941757&extension=ts&play_token=532yioqS0t"
 },
 { "channelName" : "Canal+ Thukhuma",
-   "image" : "https://encrypted-tbn0.gstatic.com/"image"s?q=tbn:ANd9GcRW0klvNlDGclHA58b2Smd5C16hRijRCVA-Mg&usqp=CAU",
+   "image" : " https://encrypted-tbn0.gstatic.com/"image"s?q=tbn:ANd9GcRW0klvNlDGclHA58b2Smd5C16hRijRCVA-Mg&usqp=CAU ",
    "link" : "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941738&extension=ts&play_token=vNCEivKfQm"
 },
 { "channelName" : "Canal+ Thukhuma2",
