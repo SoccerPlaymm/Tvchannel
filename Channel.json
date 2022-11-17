@@ -80,7 +80,7 @@
 },
 { "channelName" : "Fortune",
    "image" : "https://static.wikia.nocookie.net/logopedia/images/c/c9/Fortune_TV.png/revision/latest?cb=20191211065309",
-   "link" : ""
+   "link" : "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941750&extension=ts&play_token=EsigBOh3mS"
 },
 { "channelName" : "Channel9",
    "image" : "https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",
