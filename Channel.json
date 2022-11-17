@@ -76,7 +76,7 @@
 },
 { "channelName" : "YTV",
    "image" : "https://upload.wikimedia.org/wikipedia/en/6/68/YTV_Logo.png",
-   "link" : ""
+   "link" : "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941751&extension=ts&play_token=EsigBOh3mS"
 },
 { "channelName" : "Fortune",
    "image" : "https://static.wikia.nocookie.net/logopedia/images/c/c9/Fortune_TV.png/revision/latest?cb=20191211065309",
@@ -84,7 +84,7 @@
 },
 { "channelName" : "Channel9",
    "image" : "https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",
-   "link" : ""
+   "link" : "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941745&extension=ts&play_token=EsigBOh3mS"
 },
 { "channelName" : "MNTV",
    "image" : "https://yt3.ggpht.com/ytc/AMLnZu8tIx7w_ftV28AmK36qbznIJKTkHd5LApBd4RnV=s900-c-k-c0x00ffffff-no-rj",
