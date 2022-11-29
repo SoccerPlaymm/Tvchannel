@@ -1,6 +1,17 @@
 [
- 
 
+ { "channelName" : "TYC SPORT",
+
+   "image" : "https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q",
+   "link" : "https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8"
+
+},
+{ "channelName" : "TSN 1",
+
+   "image" : "https://img.sport-tv-guide.live/images/stations/a188.png",
+   "link" : "https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8"
+
+},
 { "channelName" : "BT Sport 1",
 
    "image" : "https://ia801901.us.archive.org/6/items/BTSport2/BT-Sport-1.png",
