@@ -1,5 +1,23 @@
 [
 
+ { "channelName" : "MATCH TV",
+
+   "image" : "https://anonymania.com/wp-content/uploads/2020/07/matchtv.jpg",
+   "link" : "https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8"
+
+},
+{ "channelName" : "DIRECTV SPORT",
+
+   "image" : "https://lh3.googleusercontent.com/-g01BisG6Vu8/YPrSOalASnI/AAAAAAAAA4U/hcy6FiQDrg0ugGpEvVdpI3moq62im6CSQCLcBGAsYHQ/s16000/image.png",
+   "link" : "http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8"
+
+},
+{ "channelName" : "MBC",
+
+   "image" : "https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8",
+   "link" : "http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8"
+
+},
  { "channelName" : "TYC SPORT",
 
    "image" : "https://play-lh.googleusercontent.com/lMZ8IE19zdpnlDuZSPtapCYDBDwOGXlovEMsZHXClDzl0m_MHuMM1Hsdo-oohnFW3Q",
