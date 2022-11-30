@@ -1,5 +1,22 @@
 [
+ { "channelName" : "WWE",
 
+   "image" : "https://upload.wikimedia.org/wikipedia/commons/9/92/WWE_%282014%29_logo.svg",
+   "link" : "http://vasprodtv.ru:8080/live/Houngst20001/QE02A8R8WV4XHK3B/2373.ts"
+
+},
+{ "channelName" : "FIGHT BOX",
+
+   "image" : "https://i.ytimg.com/vi/NVsHrx9Asc4/maxresdefault.jpg",
+   "link" : "http://vasprodtv.ru:8080/live/Houngst20001/QE02A8R8WV4XHK3B/350.ts"
+
+},
+{ "channelName" : "MBC",
+
+   "image" : "https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8",
+   "link" : "http://123.254.72.24:1935/tvlive/livestream2/chunklist_w431937155.m3u8"
+
+},
  { "channelName" : "MATCH TV",
 
    "image" : "https://anonymania.com/wp-content/uploads/2020/07/matchtv.jpg",
