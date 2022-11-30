@@ -9,7 +9,7 @@
 { "channelName" : "DIRECTV SPORT",
 
    "image" : "https://lh3.googleusercontent.com/-g01BisG6Vu8/YPrSOalASnI/AAAAAAAAA4U/hcy6FiQDrg0ugGpEvVdpI3moq62im6CSQCLcBGAsYHQ/s16000/image.png",
-   "link" : "http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8"
+   "link" : "http://vasprodtv.ru:8080/live/Houngst20001/QE02A8R8WV4XHK3B/67721.ts"
 
 },
 { "channelName" : "MBC",
@@ -27,7 +27,7 @@
 { "channelName" : "TSN 1",
 
    "image" : "https://img.sport-tv-guide.live/images/stations/a188.png",
-   "link" : "https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8"
+   "link" : "http://vasprodtv.ru:8080/live/Houngst20001/QE02A8R8WV4XHK3B/770.ts"
 
 },
 { "channelName" : "BT Sport 1",
